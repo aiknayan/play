@@ -15,4 +15,4 @@ http://172.16.17.18:88/BTV/index.m3u8
 http://172.16.17.18:88/T-SPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="http://172.16.17.18/logo/tsports.jpg", T Sports
-http://10.99.99.99:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=473c969787cbf68fa604bf1afb8b2b5d48ee8849-eb5b6f7f70b782e38be51cd033cc4b17-1783422802-1783412002
+http://10.99.99.99:8082/SOMOY.TV.HD/index.m3u8?token=619406eeff52ec4429de5197e4b9c8edb7c6df0f-75c311750e18a6d5650a83b3bc382d83-1783450973-1783440173&remote=no_check_ip
