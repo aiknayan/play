@@ -5,9 +5,6 @@ http://192.168.91.8/streams/118/index.m3u8
 #EXTINF:-1 tvg-name="FIFA English" tvg-logo="http://192.168.91.8/images/FWC26.png", FIFA English
 http://192.168.91.8/streams/119/index.m3u8
 
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="http://10.99.99.99/assets/images/SOMOY%20TV1745044149.png", Somoy TV
-http://10.99.99.99:8082/SOMOY.TV.HD/index.m3u8?token=38ec52dc0b8c3cab975dc23d410d611d615068ff-18ee9505a3c928543e945fb5f9592f88-1783365575-1783354775&remote=no_check_ip
-
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="http://172.16.17.18/logo/somoytv.jpg", Somoy TV
 http://172.16.17.18:88/SOMOY-TV/index.m3u8
 
@@ -16,3 +13,6 @@ http://172.16.17.18:88/BTV/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="http://172.16.17.18/logo/tsports.jpg", T Sports
 http://172.16.17.18:88/T-SPORTS-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="http://172.16.17.18/logo/tsports.jpg", T Sports
+http://10.99.99.99:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=473c969787cbf68fa604bf1afb8b2b5d48ee8849-eb5b6f7f70b782e38be51cd033cc4b17-1783422802-1783412002
